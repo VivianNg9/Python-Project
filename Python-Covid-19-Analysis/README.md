@@ -1,7 +1,7 @@
 # __<center>Harnessing Covid-19 Public Data for Informed Health Decision in Australia</center>__
 This project delivers key insights on the COVID-19 pandemic to support the Agency for Clinical Innovation (ACI) at NSW Health in crafting data-informed public health strategies. By analyzing extensive publicly available COVID-19 data, both nationally and internationally, the project applies descriptive analysis, K-Means clustering, hypothesis testing to map the pandemic’s trajectory and assess the effectiveness of interventions.
 
-*Full report can be found [here]([https://github.com/VivianNg9/Harnessing-Covid-19-Public-Data-for-Infomred-Health-Decisions-in-Australia-/blob/main/Harnessing%20Covid-19%20Public%20Data%20for%20Informed%20Health%20Decisions%20in%20Australia.pdf](https://github.com/VivianNg9/Python-Project/blob/main/Python-Covid-19-Analysis/Harnessing%20Covid-19%20Public%20Data%20for%20Informed%20Health%20Decisions%20in%20Australia.pdf))*
+*Full report can be found [here](https://github.com/VivianNg9/Python-Project/blob/main/Python-Covid-19-Analysis/Harnessing%20Covid-19%20Public%20Data%20for%20Informed%20Health%20Decisions%20in%20Australia.pdf)*
 
 ## Tools 
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Scikit-learn, SciPy).
