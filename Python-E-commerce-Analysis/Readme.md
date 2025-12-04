@@ -1,4 +1,5 @@
-# E-commerce Analysis
+#  <h1 align="center">E-commerce Analysis</h1>
+
 The portfolio is the analysis of an extensive e-commerce dataset, amalgamating various data sources, to understand user behavior, product preferences, and the impact of ratings and reviews on purchase decisions. It delves deep into factors such as user demographics, product categories, and the influence of peer reviews, offering valuable insights for enhancing customer experience and driving sales.
     
 ### Description of Fields
