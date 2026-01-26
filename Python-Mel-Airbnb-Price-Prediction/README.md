@@ -5,7 +5,9 @@ Predict the listed nightly price of Airbnb properties in **Melbourne** using pro
 ---
 
 ## 📌 Project Goal
-Build regression models to predict **Airbnb listing prices** based on available listing features (e.g., room type, location, amenities, host activity, review metrics).
+**Problem**: Currently there is no convenient way for a new Airbnb host to decide the price of his or her listing. New hosts must often rely on the price of neighbouting listings when deciding on the price of their own listing. 
+
+The project aims at predicting Airbnb listing prices for Melbourne based on the characteristics of listed properties to help hosts decide reasonable price. A Predictive Price Modelling tool whereby a new host can enter all the relevant details such as location of the listing, listing properties, available amenities etc and the Machine Learning Model will suggest the Price for the listing. I will train and make comparisons between different methods. 
 
 ---
 
