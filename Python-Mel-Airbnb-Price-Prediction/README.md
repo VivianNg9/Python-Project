@@ -22,7 +22,7 @@ Data is provided via a Kaggle competition and includes:
 
 ## Task-Based Workflow
 
-### **Task 1 — Explotary Data Analysis
+### **Task 1 — Exploratary Data Analysis
 
 
 ### **Task 2 — Feature Engineering 
